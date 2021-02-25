@@ -14,8 +14,8 @@ Soy de mexico me gusta aprender mucho sobre tecnologia, este es mi portafolio.
 ⚡ Sabias: Soy exalumno de la PFLC y del TEC !
 
 
-Horario de clase
+## Horario de clase
 
-| Lenguajes de interfas  | Lunes         | Martes        | Miercoles     | Miercoles     | Jueves        | Viernes       | 
-| -------------          | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| -                      | Lunes                | Martes                | Miercoles             | Miercoles             | Jueves                | Viernes               | 
+| -------------          | -------------        | -------------         | -------------         | -------------         | -------------         |
 | 14:00                  |Lenguajes de interfas | Lenguajes de interfas | Lenguajes de interfas | Lenguajes de interfas | Lenguajes de interfas | Lenguajes de interfas |
