@@ -11,7 +11,7 @@ Soy de mexico me gusta aprender mucho sobre tecnologia, este es mi portafolio.
 
 😄 Me gusta trabajar con sistemas embebidos
 
-⚡ Sabias: Soy exalumno de la PFLC y del TEC !
+⚡ Sabias: Soy exalumno de la PFLC !
 
 
 ## Horario de clase
