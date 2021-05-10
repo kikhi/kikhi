@@ -14,9 +14,9 @@ Soy de mexico me gusta aprender mucho sobre tecnologia, este es mi portafolio.
 - ⚡ Sabias: Soy exalumno de la PFLC !
 
 ```
-──────▄▀▄─────▄▀▄     
-─────▄█░░▀▀▀▀▀░░█▄                                                                                                                                                    
-─▄▄──█░░░░░░░░░░░█──▄▄                                                                                                                                       
+──────▄▀▄─────▄▀▄
+─────▄█░░▀▀▀▀▀░░█▄
+─▄▄──█░░░░░░░░░░░█──▄▄
 █▄▄█─█░░▀░░┬░░▀░░█─█▄▄█
 ```
 
