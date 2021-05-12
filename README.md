@@ -23,6 +23,6 @@ Soy de mexico me gusta aprender mucho sobre tecnologia, este es mi portafolio.
 ## Horario de clase
 
 | -                       | Lunes                | Martes                | Miercoles             | Miercoles             | Jueves                | Viernes               | 
-| -------------           | -------------        | -------------         | -------------         | -------------         | -------------         | -------------         |
+| -------------           | :---:                | :---:                 | :---:                 | :---:                 | :---:                 | :---:                 |
 | 9:00                   |Arquitectura de computadoras| Arquitectura de computadoras | Arquitectura de computadoras | Arquitectura de computadoras |Arquitectura de computadoras | Arquitectura de computadoras |
 | 14:00                   |Lenguajes de interfas | Lenguajes de interfas | Lenguajes de interfas | Lenguajes de interfas | Lenguajes de interfas | Lenguajes de interfas |
