@@ -10,13 +10,13 @@ Soy de mexico me gusta aprender mucho sobre tecnologia, este es mi portafolio.
 - 📲 ... capacitación al trabajo en Informatica
 
 - 😄 .net developer
-          *c#
-          *C/C++
-          *python
-          *HTML, CSS, JavaScript
-          *Arduino
-          *Raspberry Pi
-          *Analog design
+          * c#
+          * C/C++
+          * python
+          * HTML, CSS, JavaScript
+          * Arduino
+          * Raspberry Pi
+          * Analog design
 
 - ⚡ Sabias: Soy exalumno de la PFLC. Actualmente estudiante ITT !
 
