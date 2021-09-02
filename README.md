@@ -10,7 +10,7 @@ Soy de mexico me gusta aprender mucho sobre tecnologia, este es mi portafolio.
 - 📲 ... capacitación al trabajo en Informatica
 
 - 😄 .net developer
-          * c#
+         * c#
           * C/C++
           * python
           * HTML, CSS, JavaScript
