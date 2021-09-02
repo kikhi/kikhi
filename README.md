@@ -9,9 +9,16 @@ Soy de mexico me gusta aprender mucho sobre tecnologia, este es mi portafolio.
 
 - 📲 ... capacitación al trabajo en Informatica
 
-- 😄 Me gusta trabajar con sistemas embebidos
+- 😄 .net developer
+          *c#
+          *C/C++
+          *python
+          *HTML, CSS, JavaScript
+          *Arduino
+          *Raspberry Pi
+          *Analog design
 
-- ⚡ Sabias: Soy exalumno de la PFLC !
+- ⚡ Sabias: Soy exalumno de la PFLC. Actualmente estudiante ITT !
 
 ```
           ──────▄▀▄─────▄▀▄
