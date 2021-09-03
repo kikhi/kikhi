@@ -18,6 +18,7 @@ Soy de mexico me gusta aprender mucho sobre tecnologia, este es mi portafolio.
         * Arduino
         * Raspberry Pi
         * Analog design
+        * AWS, Microsoft azure
 
 - ⚡ Sabias: Soy exalumno de la PFLC. Actualmente estudiante ITT !
 
