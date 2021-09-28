@@ -11,6 +11,8 @@ Soy de mexico me gusta aprender mucho sobre tecnologia, este es mi portafolio.
 
 - 😄 .net developer
 
+- Estudiante de ingenieria en sistemas computacionales
+
         * c#
         * C/C++
         * python
