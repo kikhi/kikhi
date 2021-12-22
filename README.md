@@ -13,14 +13,19 @@ Soy de mexico me gusta aprender mucho sobre tecnologia, este es mi portafolio.
 
 - Estudiante de ingenieria en sistemas computacionales
 
-        * c#
+        * C#
+              * Windows Forms
+              * Asp.net
+              * Unity
+        * Cloud
+              * Azure 
+              * AWS
         * C/C++
+              * Arduino
+              * Raspberry Pi
+              * PICS
         * python
         * HTML, CSS, JavaScript
-        * Arduino
-        * Raspberry Pi
-        * Analog design
-        * AWS, Microsoft azure
 
 - ⚡ Sabias: Soy exalumno de la PFLC. Actualmente estudiante ITT !
 
