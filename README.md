@@ -25,6 +25,8 @@ Soy de mexico me gusta aprender mucho sobre tecnologia, este es mi portafolio.
               * Arduino
               * Raspberry Pi
               * Robotica
+              * Sistemas programables
+              * Chips
         * python
               * MicroPython
         * HTML, CSS, JavaScript
