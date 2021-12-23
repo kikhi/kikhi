@@ -1,6 +1,6 @@
 # Cesar Trujillo
 
-# Hola compañeros 👋
+### Hola compañeros 👋
 
 Soy de Mexico, empece en la computacion en la preparatoria con la capacitacion de informatica iniciando mi pequeño negocio de reparacion de computadoras de forma independiente. 
 Suelo desarrollar soluciones en el campo de la computacion software/hardware
