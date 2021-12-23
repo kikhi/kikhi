@@ -2,7 +2,7 @@
 
 # Hola compañeros 👋
 
-Soy de mexico me gusta aprender mucho sobre tecnologia, este es mi portafolio.
+Soy de mexico estudio sistemas y me trabajo con soluciones software/hardware.
 
 
 - 🖥 En bachillerato con informática 1 y 2 básica
