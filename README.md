@@ -17,14 +17,16 @@ Soy de mexico me gusta aprender mucho sobre tecnologia, este es mi portafolio.
               * Windows Forms
               * Asp.net
               * Unity
+        * SQL Server
         * Cloud
               * Azure 
               * AWS
         * C/C++
               * Arduino
               * Raspberry Pi
-              * PICS
+              * embedded C
         * python
+              * MicroPython
         * HTML, CSS, JavaScript
 
 - ⚡ Sabias: Soy exalumno de la PFLC. Actualmente estudiante ITT !
