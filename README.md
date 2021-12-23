@@ -7,9 +7,13 @@ Suelo desarrollar soluciones en el campo de la computacion software/hardware
 
 
 |      Programacion           |
+
 |   Sistemas programables     |
+
 |      Bases de datos         |
+
 |      Ciberseguridad         |
+
 |    Sistemas operativos      |
 
 - 🖥 En bachillerato con informática 1 y 2 básica
