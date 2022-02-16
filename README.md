@@ -6,11 +6,11 @@ From Mexico
 
 - 🖥 En bachillerato con informática 1 y 2 básica
 
-- 📲 ... capacitación al trabajo en Informatica
+- 📲 ... Informatics high school degree (Capacitación al trabajo en Informatica)
 
 - 😄 .net developer
 
-- Estudiante de ingenieria en sistemas computacionales
+-💻 Computer Engeneering Student
 
         * C#
               * Windows Forms
