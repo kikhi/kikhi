@@ -10,7 +10,7 @@ From Mexico
 
 - 😄 .net developer
 
--💻 Computer Engeneering Student
+- 💻 Computer Engeneering Student
 
         * C#
               * Windows Forms
