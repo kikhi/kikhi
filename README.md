@@ -17,9 +17,8 @@ From Mexico
               * Asp.net
         * SQL Server
         * Cloud
-              * Azure, AWS 
-              * Windows 2019 server
-              * Ubuntu Server
+              * Azure
+              * AWS 
         * python
               * MicroPython
         * HTML, CSS, JavaScript
