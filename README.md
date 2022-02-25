@@ -18,14 +18,9 @@ From Mexico
               * Unity
         * SQL Server
         * Cloud
-              * Azure 
-              * AWS
-        * C/C++
-              * Arduino
-              * Raspberry Pi
-              * Robotica
-              * Sistemas programables
-              * Chips
+              * Azure, AWS 
+              * Windows 2019 server
+              * Ubuntu Server
         * python
               * MicroPython
         * HTML, CSS, JavaScript
