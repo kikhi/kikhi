@@ -6,7 +6,7 @@ From Mexico
 
 - 🖥 En bachillerato con informática 1 y 2 básica
 
-- 📲 ... Informatics high school degree (Capacitación al trabajo en Informatica)
+- 📲 ... Informatics job traning in high school (Capacitación al trabajo en Informatica)
 
 - 😄 .net developer
 
