@@ -15,7 +15,6 @@ From Mexico
         * C#
               * Windows Forms
               * Asp.net
-              * Unity
         * SQL Server
         * Cloud
               * Azure, AWS 
