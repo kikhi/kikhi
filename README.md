@@ -4,7 +4,7 @@
 
 From Mexico 
 
-- 🖥 En bachillerato con informática 1 y 2 básica
+- 🖥 High school whit informatics 1 y 2 basics
 
 - 📲 ... Informatics job traning in high school (Capacitación al trabajo en Informatica)
 
