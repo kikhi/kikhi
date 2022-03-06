@@ -17,7 +17,7 @@ From Mexico
     C#, C++/C, Python, JavaScript
     
 /*    Frameworks    */
-    .net 6, asp.net, Unity, Windows Forms 
+    .net 6, asp.net, Unity, Windows Forms , node.js
     
 /*    Data Bases    */
     SQLserver, mongoDB
