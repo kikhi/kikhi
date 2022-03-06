@@ -10,7 +10,7 @@ From Mexico
 
 - 😄 .net developer
 
-- 💻 Computer Engeneering Student
+- 💻 Computer System Engeneering Student
 
         * C#
               * Windows Forms
@@ -23,7 +23,7 @@ From Mexico
               * MicroPython
         * HTML, CSS, JavaScript
 
-- ⚡ Sabias: Soy exalumno de la PFLC. Actualmente estudiante ITT !
+- ⚡ Fact: Ex Student of PFLC. In the actuality im student of ITT !
 
 ```
           ──────▄▀▄─────▄▀▄
