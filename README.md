@@ -12,16 +12,16 @@ From Mexico
 
 - 💻 Computer System Engeneering Student
 
-        * C#
-              * Windows Forms
-              * Asp.net
-        * SQL Server
-        * Cloud
-              * Azure
-              * AWS 
-        * python
-              * MicroPython
-        * HTML, CSS, JavaScript
+* C#
+       * Windows Forms
+       * Asp.net
+* SQL Server
+* Cloud
+       * Azure
+       * AWS 
+* python
+       * MicroPython
+* HTML, CSS, JavaScript
 
 - ⚡ Fact: Ex Student of PFLC. In the actuality im student of ITT !
 
