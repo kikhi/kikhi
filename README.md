@@ -1,6 +1,6 @@
 # Cesar Trujillo
 
-### Hola compañeros 👋
+### Hello Pals 👋
 
 From Mexico 
 
