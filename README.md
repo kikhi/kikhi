@@ -23,7 +23,7 @@ From Mexico
     SQLserver, mongoDB
     
 /*    Cloud    */
-    Azure, AWS
+    Azure, AWS, Hostgator
 ```
 
 - ⚡ Fact: Ex Student of PFLC. In the actuality im student of ITT !
