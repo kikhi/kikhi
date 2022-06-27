@@ -14,7 +14,7 @@ From Mexico
 
 ```
 /*    Programing Languajes    */
-    C#, C++/C, Python, JavaScript
+    C#, C++/C, Python, JavaScript, php
     
 /*    Frameworks    */
     .net 6, asp.net, Unity, Windows Forms , node.js
