@@ -10,7 +10,7 @@ From Mexico
 
 - 😄 JavaScript developer
 
-- 💻 Computer System Engeneering Student
+- 💻 Computer System Engineering Student
 
 ```
 /*    Programing Languajes    */
