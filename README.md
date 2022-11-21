@@ -26,7 +26,7 @@ From Mexico
     AWS, Hostgator
 ```
 
-- ⚡ Fact: Ex Student of PFLC. Actually studyng in ITT !
+- ⚡ Fact: Ex Student of PFLC. Actually studying in ITT !
 
 ```
           ──────▄▀▄─────▄▀▄
