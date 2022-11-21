@@ -13,7 +13,7 @@ From Mexico
 - 💻 Computer System Engineering Student
 
 ```
-/*    Programing Languajes    */
+/*    Programing Languages    */
     JavaScript, php, C#, C++/C, Python
     
 /*    Frameworks    */
