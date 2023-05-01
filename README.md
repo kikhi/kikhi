@@ -17,7 +17,7 @@ From Mexico
     JavaScript, php, C#, C++/C, Python
     
 /*    Frameworks    */
-    Laravel, node.js, .net 6, asp.net, Unity, Windows Forms
+    Laravel, node.js, .net 6, asp.net, Unity
     
 /*    Data Bases    */
     MySQL, SQLserver
