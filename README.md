@@ -8,16 +8,17 @@ From Mexico
 
 - 📲 ... Informatics job traning in high school (Capacitación al trabajo en Informatica)
 
-- 😄 JavaScript developer
+- 😄 Cybersecurity analyst
 
 - 💻 Computer System Engineering Student
 
+- 📝 English | Español
+
+- ⚡ Fact: Ex Student of PFLC. Currently studying in ITT !
+
 ```
 /*    Programing Languages    */
-    JavaScript, php, C#, C++/C, Python
-    
-/*    Frameworks    */
-    Laravel, node.js, .net 6, asp.net, Unity
+    python | c++ | JavaScript 
     
 /*    Data Bases    */
     MySQL, SQLserver
@@ -26,7 +27,6 @@ From Mexico
     AWS, Hostgator
 ```
 
-- ⚡ Fact: Ex Student of PFLC. Actually studying in ITT !
 
 ```
           ──────▄▀▄─────▄▀▄
