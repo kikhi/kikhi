@@ -34,3 +34,6 @@ From Mexico
           ─▄▄──█░░░░░░░░░░░█──▄▄
           █▄▄█─█░░▀░░┬░░▀░░█─█▄▄█
 ```
+
+
+Left aligned Header | Right aligned Header | Center aligned Header
