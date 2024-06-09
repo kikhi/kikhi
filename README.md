@@ -8,23 +8,24 @@ From Mexico
 
 - 📲 ... Informatics job traning in high school (Capacitación al trabajo en Informatica)
 
-- 😄 Soc Analyst L1
+- 😄 Networks and Cybersecurity
 
-- 💻 Computer System Engineering Student
+- 💻 Computer System Engineering
 
 - 📝 English | Español
 
-- ⚡ Fact: Ex Student of PFLC. Currently studying in ITT !
+- ⚡ Fact: Ex Student of PFLC & ITT. Currently studing in UNIR !
 
 ```
-/*    Programing Languages    */
-    python | c++ | JavaScript 
+Programing Languages: python | c++ | JavaScript 
     
-/*    Data Bases    */
-    MySQL, SQLserver
+Data Bases: MySQL | SQLserver
     
-/*    Cloud    */
-    AWS, Hostgator
+Cloud: AWS | Hostgator
+
+IT managment: Windows Server | Ubuntu Server
+
+Networks: Fortinet | CISCO technologies
 ```
 
 
