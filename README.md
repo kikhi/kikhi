@@ -8,7 +8,7 @@ From Mexico
 
 - 📲 ... Informatics job traning in high school (Capacitación al trabajo en Informatica)
 
-- 😄 Cybersecurity analyst
+- 😄 Soc Analyst L1
 
 - 💻 Computer System Engineering Student
 
