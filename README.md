@@ -24,7 +24,7 @@ From Mexico
 Programing Languages: c# | c++
 
 ```
-[![My Skills](https://skillicons.dev/icons?i=azure,cs,cpp&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,kali,cs,cpp&perline=5)](https://skillicons.dev)
 
 ```
           ──────▄▀▄─────▄▀▄
