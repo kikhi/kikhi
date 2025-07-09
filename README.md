@@ -8,24 +8,21 @@ From Mexico
 
 - 📲 ... Informatics job traning in high school (Capacitación al trabajo en Informatica)
 
-- 😄 Networks and Cybersecurity
-
 - 💻 Computer System Engineering
+
+- 😄 Experience in cybersecurity research 
 
 - 📝 English | Español
 
 - ⚡ Fact: Ex Student of PFLC & ITT. Currently studing in UNIR !
 
 ```
-Programing Languages: python | c++ | JavaScript 
-    
-Data Bases: MySQL | SQLserver
-    
-Cloud: AWS | Hostgator
+> Fortinet certification associate
+> SOC Analyst L1 certificate
+> Azure managment
 
-IT managment: Windows Server | Ubuntu Server
+Programing Languages: c# | c++
 
-Networks: Fortinet | CISCO technologies
 ```
 
 
@@ -36,4 +33,4 @@ Networks: Fortinet | CISCO technologies
           █▄▄█─█░░▀░░┬░░▀░░█─█▄▄█
 ```
 
-
+<i class="bxl bx-github" />
