@@ -24,7 +24,7 @@ From Mexico
 Programing Languages: c# | c++
 
 ```
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ```
           ──────▄▀▄─────▄▀▄
@@ -32,5 +32,3 @@ Programing Languages: c# | c++
           ─▄▄──█░░░░░░░░░░░█──▄▄
           █▄▄█─█░░▀░░┬░░▀░░█─█▄▄█
 ```
-
-<i class="bxl bx-github" />
